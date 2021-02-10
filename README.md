@@ -1,7 +1,7 @@
 # stock-price-prediction
 
-first data is collected using "pandas_datareader" library
-"https://pandas-datareader.readthedocs.io/en/latest/remote_data.html"
-used tiingo for collecting data of Apple
-create an stacked LSTM model
-predict future 30 days stocks
+First data is collected using "pandas_datareader" library. 
+"https://pandas-datareader.readthedocs.io/en/latest/remote_data.html".
+Used tiingo for collecting data of Apple.
+Then create an stacked LSTM model.
+And at the last predict future 30 days stocks.
